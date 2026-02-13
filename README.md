@@ -19,4 +19,4 @@ This project demonstrates a complete image classification workflow using PyTorch
 - Strong generalization on unseen test data
 - Most errors occur between visually similar scene categories
 
-> Full experiments and visualizations are available in the notebook.
+# Full experiments and visualizations are available in the notebook.
